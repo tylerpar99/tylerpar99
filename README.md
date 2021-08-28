@@ -8,4 +8,4 @@
 - I’m currently learning Kotlin and Android Studio.
 - I’m looking to collaborate on open source projects, I have just began my exploration into open source and will be contributing to Runestone Interactive.
 - How to reach me: Feel free to connect on LinkedIn `https://www.linkedin.com/in/tylerpar99/`
-- Fun Fact: If you would like to add this to your personal profile page follow this link: `https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme`
+- Fun Fact: If you would like to add a personal README to your profile page follow this link: `https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme`
