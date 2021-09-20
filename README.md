@@ -1,4 +1,4 @@
-![Welcome to my Github Profile](https://user-images.githubusercontent.com/67805799/133958842-983b589d-99f0-492e-98f9-044650e7cd17.gif)
+![Welcome to my Github Profile](https://user-images.githubusercontent.com/67805799/133959025-01d7eabe-a4e7-471d-8cb7-00677eec8fc8.png)
 
 
 ## About Me:
