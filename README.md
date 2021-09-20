@@ -2,8 +2,8 @@
 
 
 ## About Me:
-- Pronouns: Him/He
->  Hardworking and enthusiastic College Student working towards a B.S. in Computer & Information Science at Berea College. Experienced with many Programming Languages,        development tools, and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+ Pronouns: Him/He
+ Hardworking and enthusiastic College Student working towards a B.S. in Computer & Information Science at Berea College. Experienced with many Programming Languages,        development tools, and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 ## What I am up to:
 - I’m currently learning Jenkins and Contributing to Open Source.
