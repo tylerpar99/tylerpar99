@@ -1,9 +1,8 @@
 ![Welcome to my Github Profile](https://user-images.githubusercontent.com/67805799/133959025-01d7eabe-a4e7-471d-8cb7-00677eec8fc8.png)
 
 
-## About Me:
- Pronouns: Him/He
- Hardworking and enthusiastic College Student working towards a B.S. in Computer & Information Science at Berea College. Experienced with many Programming Languages,        development tools, and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+## About Me (He/Him):
+ Hardworking and enthusiastic College Student working towards a B.S. in Computer & Information Science at Berea College. Experienced with many Programming Languages,      development tools, and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 ## What I am up to:
 - I’m currently learning Jenkins and Contributing to Open Source.
