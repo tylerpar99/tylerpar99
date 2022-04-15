@@ -1,4 +1,5 @@
-![Welcome to my Github Profile](https://user-images.githubusercontent.com/67805799/133959025-01d7eabe-a4e7-471d-8cb7-00677eec8fc8.png)
+![bannerTyler](https://user-images.githubusercontent.com/67805799/163587126-c75c35a5-3576-41c7-a6fa-6044932da899.png)
+
 
 
 ## About Me (He/Him):
