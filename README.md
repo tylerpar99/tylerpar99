@@ -9,4 +9,4 @@
 - I’m currently learning Jenkins and Contributing to Open Source.
 - I’m looking to collaborate on open source projects, I have just began my exploration into open source and will be contributing to Runestone Interactive.
 - How to reach me: Feel free to connect on LinkedIn `https://www.linkedin.com/in/tylerpar99/`
-- Fun Fact: If you would like to add a personal README to your profile page follow this link: <a href = https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme`>Profile Readme</a>
+- Fun Fact: If you would like to add a personal README to your profile page follow this link: <a href = "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">Profile Readme</a>
